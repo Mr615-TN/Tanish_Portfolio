@@ -6,15 +6,15 @@ theme = "gohugo-theme-ananke"
 new_window = true 
     [params.profile]
     show_reading_time = true 
-        [params.profile.social]
+        [params.anake.social]
             networks = [ "instagram","github", "linkedin"]
 
-            [params.profile.social.instagram]
+            [params.anake.social.instagram]
                 username = "i_found_nemo1256"
 
-            [params.profile.social.github]
+            [params.anake.social.github]
                 username = "Mr615-TN"
 
-            [params.profile.social.linkedin]
+            [params.anake.social.linkedin]
                 username = "Tanish Neema"
 
