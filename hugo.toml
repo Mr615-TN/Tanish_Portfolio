@@ -1,7 +1,7 @@
 baseURL = 'https://Mr615-TN.github.io/Tanish_Portfolio/'
 languageCode = 'en-us'
 title = "Tanish Neema : The Portfolio"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 [params]
 new_window = true 
     [params.profile]
