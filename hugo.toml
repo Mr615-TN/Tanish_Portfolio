@@ -1,0 +1,20 @@
+baseURL = 'https://Mr615-TN.github.io/Tanish_Portfolio/'
+languageCode = 'en-us'
+title = "Tanish Neema : The Portfolio"
+theme = "gohugo-theme-ananke"
+[params]
+new_window = true 
+    [params.profile]
+    show_reading_time = true 
+        [params.profile.social]
+            networks = [ "instagram","github", "linkedin"]
+
+            [params.profile.social.instagram]
+                username = "i_found_nemo1256"
+
+            [params.profile.social.github]
+                username = "Mr615-TN"
+
+            [params.profile.social.linkedin]
+                username = "Tanish Neema"
+
